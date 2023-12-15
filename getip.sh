@@ -1,5 +1,5 @@
 #!/bin/bash
-touch test.html
+touch server.html
 
 
 var=$(dig +short myip.opendns.com @resolver1.opendns.com)
